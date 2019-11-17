@@ -1,0 +1,23 @@
+1. Given an input number n, write a program that prints sum of all even numbers from 1 to n
+2. Given an input number n, write a program that prints multiplication tables for numbers upto n
+3. Write a program to check if given number is prime or not
+4. Write a program to print all prime numbers from 1 to n
+5. Write a program to check if n is perfect square or not
+6. Take an input n and print below pattern
+
+12345
+1234
+123
+12
+1
+
+7. 
+8. Write a program to output factorial of a number
+9. Write a program to print first n fibbonaci series
+10. Write a program to check if given string is palidrome or not
+11. Write a program to split a string based on whitespace delimiter and join string using a '-' delimiter
+12. Write a program to translate a string to PigLatin and back
+13. Write a program to count number of vowels and consonants in a given string
+14. Write a program to check if given substring is present in input string or not
+15. Write a program to print all lowercase characters from the given string
+16. 

@@ -13,11 +13,12 @@
 
 7. 
 8. Write a program to output factorial of a number
-9. Write a program to print first n fibbonaci series
+9. Write a program to print first n fibbonaci series.
 10. Write a program to check if given string is palidrome or not
 11. Write a program to split a string based on whitespace delimiter and join string using a '-' delimiter
 12. Write a program to translate a string to PigLatin and back
 13. Write a program to count number of vowels and consonants in a given string
 14. Write a program to check if given substring is present in input string or not
 15. Write a program to print all lowercase characters from the given string
-16. 
+16. At UAB football game, Blaze does pushups after each Blazer score. After the first Blazer goal (1 Blazer Goal = 7 Points), Blaze does 7 pushups. After the second goal, Blaze does 14 pushups. Write a program, given the points scored, how many push ups Blaze has done in the game.
+17. 

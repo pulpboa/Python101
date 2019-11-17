@@ -21,4 +21,7 @@
 14. Write a program to check if given substring is present in input string or not
 15. Write a program to print all lowercase characters from the given string
 16. At UAB football game, Blaze does pushups after each Blazer score. After the first Blazer goal (1 Blazer Goal = 7 Points), Blaze does 7 pushups. After the second goal, Blaze does 14 pushups. Write a program, given the points scored, how many push ups Blaze has done in the game.
-17. 
+17. Write a program to check if in the given string, parenthesis are correctly matched.
+18. Write a program to merge characters of two strings alternatively. Length of both strings is equal.
+19. Write a program to generate count-and-say sequence 1, 11, 21, 1211, 111221, 312211, 13112221 ....
+20. Alice has a string 's'. She really likes the letter 'a'. She calls a string good, if it has more than half characters as 'a'. Write a program such that given a string, what is the least number of characters, alice has to erase in order to get a good string.
